@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+  <img src="![Pratik Git Profile](https://github.com/user-attachments/assets/f7a6e03a-ae09-4256-95a5-606bdc809081)" width="180" height="180" style="border-radius: 50%;" />
+</p>
 
-<!--
-**PratikNimbalkar-7/PratikNimbalkar-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi 👋 I'm Pratik Nimbalkar</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  ASP.NET Core Developer | Web API | MVC | Angular
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 💻 Backend-focused .NET Developer  
+- 🌐 Building scalable & clean web applications  
+- 🔐 Experience with JWT Authentication  
+- 🗄️ SQL Server & Database Design  
+- ⚙️ Git | Docker | Jenkins  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
