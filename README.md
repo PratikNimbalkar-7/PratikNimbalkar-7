@@ -32,7 +32,7 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/pratiknimbalkar-7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
