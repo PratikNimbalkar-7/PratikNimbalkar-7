@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[Pratik Git Profile]" width="180" height="180" style="border-radius: 50%;" />
+  <img src="![Pratik Git Profile](https://github.com/user-attachments/assets/35fe157b-f2d1-4e43-81d3-aa9d2605e374)
+" width="180" height="180" style="border-radius: 50%;" />
 </p>
 
 <h2 align="center">Hi 👋 I'm Pratik Nimbalkar</h2>
