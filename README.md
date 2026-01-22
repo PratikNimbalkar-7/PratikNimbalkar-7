@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Pratik Git Profile](https://github.com/user-attachments/assets/f7a6e03a-ae09-4256-95a5-606bdc809081)" width="180" height="180" style="border-radius: 50%;" />
+  <img src="[Pratik Git Profile]" width="180" height="180" style="border-radius: 50%;" />
 </p>
 
 <h2 align="center">Hi 👋 I'm Pratik Nimbalkar</h2>
@@ -15,7 +15,7 @@
 - 🌐 Building scalable & clean web applications  
 - 🔐 Experience with JWT Authentication  
 - 🗄️ SQL Server & Database Design  
-- ⚙️ Git | Docker | Jenkins  
+- ⚙️ Git | Docker | Jenkins | SonarQube 
 
 ---
 
@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/pratiknimbalkar-7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:pratiknimbalkar7997@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
   </a>
 </p>
