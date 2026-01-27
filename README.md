@@ -37,7 +37,7 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratiknimbalkar-7">
+  <a href="https://in/pratik-nimbalkar07">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
   <a href="mailto:pratiknimbalkar7997@gmail.com">
