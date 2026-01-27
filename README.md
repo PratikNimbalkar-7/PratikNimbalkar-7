@@ -37,13 +37,14 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://in/pratik-nimbalkar07">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/pratik-nimbalkar07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:pratiknimbalkar7997@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
   </a>
 </p>
+
 
 ---
 
